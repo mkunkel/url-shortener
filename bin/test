@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+# Insert test running script here. Example:
+# bundle check || bundle install
+# bundle exec rake

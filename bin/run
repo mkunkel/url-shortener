@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+# Insert script to start app here
